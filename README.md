@@ -1,6 +1,6 @@
 Hey! I'm TryPix. I'm a computer science student at ETH Zürich, learning the ways of the programming world. 
 
-- Java and Python
+- Java and Python programming
 
 
 <!--START_SECTION:waka-->
