@@ -6,7 +6,7 @@ Hey! I'm TryPix. I'm a computer science student at ETH Zürich, learning the way
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java   30 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
