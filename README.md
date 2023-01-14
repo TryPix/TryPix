@@ -6,8 +6,8 @@ Hey! I'm TryPix. I'm a computer science student at ETH Zürich, learning the way
 <!--START_SECTION:waka-->
 
 ```text
-Java   2 hrs 29 mins   █████████████████████████   99.64 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Java   1 hr 59 mins    █████████████████████████   99.55 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
