@@ -1,1 +1,2 @@
-Currently studying computer science at ETH Zürich.
+- Studying computer science at ETH Zürich.
+- Java and Python.
