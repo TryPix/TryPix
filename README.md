@@ -1,2 +1,2 @@
 - Studying computer science at ETH Zürich.
-- Java and Python.
+- Java, Python, C, C++!
