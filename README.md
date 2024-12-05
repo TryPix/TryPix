@@ -1,2 +1,1 @@
-- Studying computer science at ETH Zürich.
-- Java, Python, C, Dart!
+What's up?
